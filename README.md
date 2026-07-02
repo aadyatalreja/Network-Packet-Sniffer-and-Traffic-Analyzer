@@ -223,13 +223,6 @@ http://localhost:8000
 
 and that CORS settings allow frontend access.
 
----
-
-## License
-
-This project is intended for educational purposes and ethical network analysis only.
-
----
 
 <div align="center">
 
